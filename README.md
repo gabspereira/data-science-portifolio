@@ -5,3 +5,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 * [Module 1](https://github.com/uniegabpereira/data-science-portifolio/blob/master/DA0101EN/DA0101EN-JL-Review-Introduction.ipynb) - Python Basics
 * [Module 2](https://github.com/uniegabpereira/data-science-portifolio/blob/master/DA0101EN/DA0101EN-JL-Review-Data_Wrangling.ipynb) - Data Wrangling
+* [Module 3](https://github.com/uniegabpereira/data-science-portifolio/blob/master/DA0101EN/DA0101EN-JL-Review-Exploratory_Data_Analysis.ipynb) - Exploratory Data Analysis
